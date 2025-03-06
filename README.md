@@ -53,13 +53,13 @@ For Linux User :
 Tools: Simulation and Synthesis Tools (e.g., Gtkwave, yosys, Quartus)
 
 
-🤝 Contributing
+# 🤝 Contributing
 
 Contributions are welcome! Feel free to open issues, suggest improvements, or submit pull requests.
 
 
 
-📄 License
+# 📄 License
 
 This repository is open-source and available under the MIT License.
 
