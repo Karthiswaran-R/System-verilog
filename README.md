@@ -1,9 +1,9 @@
-# System-verilog-
+# System-verilog
 This repository contains a comprehensive collection of SystemVerilog projects, tutorials, and learning resources aimed at digital design, verification, and DFT (Design for Test) techniques. The projects and examples are suitable for both beginners and advanced learners in the VLSI domain.
 
 
 
-📚 Learning Plan: #100DaySystemVerilog
+#📚 Learning Plan: #100DaySystemVerilog
 
 This repository aligns with a 100-day structured learning plan, covering topics from SystemVerilog fundamentals to advanced UVM (Universal Verification Methodology) techniques. The detailed plan includes:
 
